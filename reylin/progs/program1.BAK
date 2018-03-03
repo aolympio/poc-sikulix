@@ -1,0 +1,1 @@
+_SHELL =  'DO ' +  ADDBS(SYS(5) + SYS(2003)) + 'PROJECT1.EXE'
